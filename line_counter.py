@@ -1,8 +1,9 @@
 import os
 
 line_counter = 0
+current_dir = os.path.abspath(os.path.dirname(__file__))
 
-for directory in os.walk("../Basics_of_Python_Programming"):
+for directory in os.walk(current_dir):
     if "week" in directory[0]:
         for filename in directory[2]:
             if filename.endswith(".py"):
