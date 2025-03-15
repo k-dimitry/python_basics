@@ -1,4 +1,5 @@
 <h2>Основы программирования на Python</h2>
+<p><b>Курс уже недоступен</b></p>
 
 <p>А точнее, все обязательные задачи курса и часть задач повышенной сложности.</p>
 <p>Курс находится на <a href="https://www.coursera.org/learn/python-osnovy-programmirovaniya">Coursera</a>.</p>
